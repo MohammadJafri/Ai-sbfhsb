@@ -1,0 +1,69 @@
+body
+{
+  text-align: center;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+  float: right;
+  border: 1px solid white;
+}
+  .large_image
+  {
+    width: 100%;
+  }
+
+#start,#status
+{
+    font-size: 22px;
+    text-align: center;
+}
+ 
+h4 
+{
+  background: white;
+  line-height: 2;
+  margin: 0px;
+}
+
+.modal-dialog
+{
+  width: 90%;
+}
+
+.instruction_image
+{
+  display: inline-block;
+  width: 45%;
+}
+
+#copy_right_footer
+{
+    margin: 10px;
+    position: fixed;
+    width: 100%;
+    color: black;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+}
+
+#button_1
+{
+   text-align: center;
+   float: center;
+}
+
